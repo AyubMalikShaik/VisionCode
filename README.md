@@ -1,6 +1,6 @@
 👁️ Morse Code Eye Blink Desktop Control System
 Advanced Eye-Controlled Computer InterfaceVersion: 2.1 - Enhanced Accessibility EditionAuthor: GitHub CopilotDate: August 24, 2025
-A sophisticated computer vision application that converts eye blink patterns into Morse code commands for complete desktop control. This accessibility tool enables hands-free computer operation through deliberate eye blinks, supporting app launching, window management, virtual keyboard input, and mouse control
+A sophisticated computer vision application that converts eye blink patterns into Morse code commands for complete desktop control. This accessibility tool enables hands-free computer operation through deliberate eye blinks, supporting app launching, window management, virtual keyboard input, and mouse control.
 🎯 Core Features
 🖥️ Desktop Control
 
